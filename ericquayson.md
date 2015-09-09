@@ -1,6 +1,6 @@
-# [Full Name](https://github.com/USERNAME)
+# [https://github.com/ericquayson](https://github.com/USERNAME)
 
-![Full Name](URL-to-IMAGE)
+![https://avatars1.githubusercontent.com/u/12155476?v=3&s=460](URL-to-IMAGE)
 
 | category | value |
 |-----------|-------|
